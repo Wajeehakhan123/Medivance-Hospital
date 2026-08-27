@@ -1,0 +1,6 @@
+{
+  "name": "Medivance Hospital",
+  "description": "A modern, professional, and comprehensive hospital website featuring department guides, multi-specialist doctor directory, online appointment booking, medical services, 24/7 emergency center, patient information portal, and health blog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
